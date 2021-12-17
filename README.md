@@ -22,3 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+  // 去除"@vue/cli-plugin-eslint": "~4.5.0",以免报空格错
