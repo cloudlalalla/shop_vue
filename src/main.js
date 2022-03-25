@@ -31,6 +31,7 @@ Vue.use(VueQuillEditor)
 
 
 
+
 Vue.filter('dataFormat', function(originVal) {
   const dt = new Date(originVal)
   const y= dt.getFullYear()

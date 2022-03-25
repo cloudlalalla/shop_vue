@@ -44,6 +44,8 @@ vue-quill-editor
 
 lodash
 
+echarts
+
 
 
 ## 开发依赖
